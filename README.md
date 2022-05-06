@@ -1,6 +1,6 @@
 # delete_your_tweets
 
-Recently, The Guardian encouraged their journalists to "regularly delete historical tweets". Read a digest at https://www.niemanlab.org/2022/05/think-carefully-before-you-quote-tweet-the-guardian-releases-new-social-media-guidelines-for-staff/
+Recently, The Guardian encouraged their journalists to "regularly delete historical tweets". Read a digest at (Nieman's Lab)[https://www.niemanlab.org/2022/05/think-carefully-before-you-quote-tweet-the-guardian-releases-new-social-media-guidelines-for-staff/].
 
 Here is a repo to guide you in this task.
 
