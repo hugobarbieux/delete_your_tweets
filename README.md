@@ -4,7 +4,7 @@ Recently, The Guardian encouraged their journalists to "regularly delete histori
 
 Here is a repo to guide you in this task.
 
-You would first need to get rights to use the Twitter API and download your Twitter archive. Then, in the archive file, find the tweet.js file and make it an json file replacing the first line...
+You would first need to get rights to use the Twitter API and download your Twitter archive. Then, in the archive file, find the tweet.js file and make it an JSON file replacing the first line...
 
 ```javascript
    window.YTD.tweet.part0 = [ {
@@ -16,7 +16,7 @@ and replace it with
    {"data": [ {
 ```
 
-... and for last line you need to add an extra "}" to make it a JSON object, hence your file's last line will look like this:-
+... and for last line you need to add an extra "}" to make it a JSON object. Your file's last line will look like this:
 
 ```javascript
   } ]}
